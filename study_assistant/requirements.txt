@@ -1,0 +1,10 @@
+deep-translator
+fpdf2
+Pillow
+PyPDF2
+pyperclip
+gtts
+pygame
+keyboard
+pystray
+youtube-transcript-api
